@@ -1,99 +1,98 @@
-Paese;19/03/2021;Variazione
-Alessano;8;4
-Alezio;14;10
-Alliste;2;-1
-Andrano;19;2
-Aradeo;3;-2
-Arnesano;22;-7
-Bagnolo del Salento;9;3
-Botrugno;12;10
-Calimera;18;-7
-Campi Salentina;54;19
-Cannole;0;0
-Caprarica di Lecce;8;-2
-Carmiano;53;4
-Carpignano Salentino;5;-3
-Casarano;44;18
-Castri di Lecce;8;-1
-Castrignano de' Greci;16;2
-Castrignano del Capo;43;18
-Cavallino;116;5
-Collepasso;11;5
-Copertino;49;28
-Corigliano d'Otranto;34;27
-Corsano;20;4
-Cursi;11;3
-Cutrofiano;21;7
-Diso;28;7
-Gagliano del Capo;16;5
-Galatina;79;12
-Galatone;41;-7
-Gallipoli;164;49
-Giuggianello;5;-4
-Giurdignano;1;0
-Guagnano;18;0
-Lecce;519;175
-Lequile;16;-5
-Leverano;40;-1
-Lizzanello;119;33
-Maglie;44;14
-Martano;14;2
-Martignano;14;2
-Matino;7;-6
-Melendugno;40;13
-Melissano;4;0
-Melpignano;6;0
-Miggiano;41;15
-Minervino di Lecce;5;1
-Monteroni di Lecce;57;14
-Montesano Salentino;12;6
-Morciano di Leuca;1;0
-Muro Leccese;8;3
-Nardò;124;39
-Neviano;1;-1
-Nociglia;8;4
-Novoli;35;13
-Ortelle;5;1
-Otranto;20;13
-Palmariggi;2;1
-Parabita;18;10
-Patù;7;4
-Poggiardo;18;11
-Presicce-Acquarica;14;9
-Racale;28;2
-Ruffano;14;-4
-Salice Salentino;12;5
-Salve;4;0
-Sanarica;3;0
-San Cesario di Lecce;64;24
-San Donato di Lecce;11;1
-Sannicola;13;-1
-San Pietro in Lama;12;0
-Santa Cesarea Terme;4;2
-Scorrano;67;18
-Seclì;12;1
-Sogliano Cavour;1;0
-Soleto;11;2
-Specchia;13;6
-Spongano;17;6
-Squinzano;164;95
-Sternatia;3;1
-Supersano;26;13
-Surano;1;0
-Surbo;55;20
-Taurisano;47;11
-Taviano;10;-2
-Tiggiano;19;19
-Trepuzzi;55;14
-Tricase;58;32
-Tuglie;14;5
-Ugento;21;4
-Uggiano la Chiesa;11;5
-Veglie;22;-4
-Vernole;54;9
-Zollino;1;1
-San Cassiano;9;7
-Castro;3;2
-Porto Cesareo;10;5
-RSA LA FONTANELLA;0;0
-Totale;3020;877
+ID;abitanti;casi_da_inizio;positivi_settimana_precedente;positivi;variazione;vaccini_somministrati;
+Alessano;6253;129;4;8;4;649;
+Alezio;5676;84;4;14;10;484;
+Alliste;6533;109;3;2;-1;407;
+Andrano;4666;94;17;19;2;630;
+Aradeo;9087;92;5;3;-2;728;
+Arnesano;3995;120;27;22;-7;331;
+Bagnolo del Salento;1808;35;6;9;3;101;
+Botrugno;2675;30;2;12;10;399;
+Calimera;6849;119;25;18;-7;1002;
+Campi Salentina;9982;180;35;54;19;1064;
+Cannole;1669;75;0;0;0;161;
+Caprarica di Lecce;2386;34;10;8;-2;288;
+Carmiano;11748;300;49;53;4;1014;
+Carpignano Salentino;3704;75;8;5;-3;329;
+Casarano;19732;429;26;44;18;1653;
+Castri di Lecce;2805;42;9;8;-1;269;
+Castrignano de' Greci;3779;74;14;16;2;364;
+Castrignano del Capo;5207;104;25;43;18;583;
+Cavallino;12586;343;111;116;5;1106;
+Collepasso;5775;135;6;11;5;524;
+Copertino;23494;324;21;49;28;2158;
+Corigliano d'Otranto;5699;89;7;34;27;550;
+Corsano;5278;70;16;20;4;472;
+Cursi;3999;72;8;11;3;321;
+Cutrofiano;8798;173;14;21;7;990;
+Diso;2906;69;21;28;7;371;
+Gagliano del Capo;5054;89;11;16;5;475;
+Galatina;26201;440;67;79;12;2475;
+Galatone;15145;222;48;41;-7;1415;
+Gallipoli;20241;442;115;164;49;1982;
+Giuggianello;1155;21;9;5;-4;128;
+Giurdignano;1935;20;1;1;0;153;
+Guagnano;5578;108;18;18;0;486;
+Lecce;93865;1983;344;519;175;10037;
+Lequile;8576;77;21;16;-5;768;
+Leverano;13881;171;41;40;-1;994;
+Lizzanello;11686;287;86;119;33;951;
+Maglie;13893;243;30;44;14;1734;
+Martano;8785;163;12;14;2;842;
+Martignano;1604;24;12;14;2;171;
+Matino;11224;330;13;7;-6;811;
+Melendugno;9932;192;27;40;13;681;
+Melissano;6881;236;4;4;0;410;
+Melpignano;2181;26;6;6;0;214;
+Miggiano;3411;96;26;41;15;334;
+Minervino di Lecce;3556;41;4;5;1;340;
+Monteroni di Lecce;13673;247;43;57;14;1069;
+Montesano Salentino;2622;67;6;12;6;306;
+Morciano di Leuca;3153;31;1;1;0;336;
+Muro Leccese;4865;65;5;8;3;507;
+Nardò;30757;423;85;124;39;2829;
+Neviano;5069;36;2;1;-1;394;
+Nociglia;2191;26;4;8;4;193;
+Novoli;7736;145;22;35;13;859;
+Ortelle;2299;47;4;5;1;314;
+Otranto;5827;72;7;20;13;393;
+Palmariggi;1430;7;1;2;1;163;
+Parabita;8790;219;8;18;10;777;
+Patù;1642;27;3;7;4;164;
+Poggiardo;5912;132;7;18;11;720;
+Presicce-Acquarica;9608;192;5;14;9;719;
+Racale;10787;332;26;28;2;750;
+Ruffano;9503;193;18;14;-4;640;
+Salice Salentino;8049;139;7;12;5;708;
+Salve;4551;55;4;4;0;411;
+Sanarica;1461;31;3;3;0;141;
+San Cesario di Lecce;7987;171;40;64;24;753;
+San Donato di Lecce;5551;71;10;11;1;496;
+Sannicola;5738;96;14;13;-1;500;
+San Pietro in Lama;3476;58;12;12;0;297;
+Santa Cesarea Terme;2935;39;2;4;2;410;
+Scorrano;6809;223;49;67;18;691;
+Seclì;1842;43;11;12;1;248;
+Sogliano Cavour;3968;58;1;1;0;464;
+Soleto;5325;85;9;11;2;583;
+Specchia;4649;95;7;13;6;370;
+Spongano;3533;60;11;17;6;462;
+Squinzano;13705;323;69;164;95;1042;
+Sternatia;2221;29;2;3;1;295;
+Supersano;4259;77;13;26;13;228;
+Surano;1577;30;1;1;0;162;
+Surbo;14597;212;35;55;20;911;
+Taurisano;11546;623;36;47;11;726;
+Taviano;11718;232;12;10;-2;1082;
+Tiggiano;2809;71;0;19;19;290;
+Trepuzzi;14076;251;41;55;14;1205;
+Tricase;17253;377;26;58;32;2115;
+Tuglie;5161;52;9;14;5;370;
+Ugento;12214;206;17;21;4;836;
+Uggiano la Chiesa;4355;41;6;11;5;359;
+Veglie;13671;228;26;22;-4;1041;
+Vernole;6941;140;45;54;9;564;
+Zollino;1897;27;0;1;1;199;
+San Cassiano;1985;44;2;9;7;238;
+Castro;2339;27;1;3;2;240;
+Porto Cesareo;6230;120;5;10;5;369;
+Totale;782165;15206;2141;3020;877;72288;
