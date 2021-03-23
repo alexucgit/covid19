@@ -17,4 +17,7 @@ Saranno aggiunti i dati sulla vaccinazione
 
 #### 23/03/2021
 
-Prima pubblicazione
+- Prima pubblicazione
+- Aggiunto covid19_totale_latest.csv
+- Aggiunti i campi abitanti, casi_da_inizio, positivi_settimana_precedente, accini_somministrati in covid19_prov_le_latest.csv;
+
