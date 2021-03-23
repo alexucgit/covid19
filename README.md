@@ -25,6 +25,8 @@ Nella cartella dati si possono trovare 3 tabelle in formato csv:
 | covid19_prov_le_latest | dati sull'ultima rilevazione disponibile, includendo anche la variazione rispetto alla settimana precedente |
 | last_update | data e ora di ultimo aggiornamento del dataset |
 
+Nella cartella report invece si possono trovare tutti i report in formato PDF di ASL Lecce rinominati nel seguente formato: YYYYMMDD.pdf
+
 
 ## License
 MIT
