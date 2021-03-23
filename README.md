@@ -1,5 +1,4 @@
 # Covid-19 - report provincia di Lecce
-## 
 
 [![N|Solid](https://raw.githubusercontent.com/alexucgit/covid19/main/logoGitHub.jpg)](http://www.reportquotidiano.it)
 
