@@ -1,4 +1,4 @@
-ID;descrizione;abitanti;casi_da_inizio;positivi_settimana_precedente;positivi;variazione;vaccini_somministrati_pdose;positivi_x1000;casi_da_inizio_x1000;vaccini_somministrati_x100
+ID;descrizione;abitanti;casi_da_inizio;positivi_settimana_precedente;positivi;variazione;vaccini_somministrati;positivi_x1000;casi_da_inizio_x1000;vaccini_somministrati_x100
 Alessano;Alessano;6253;129;4;8;4;649;1,28;20,63;10,38
 Alezio;Alezio;5676;84;4;14;10;484;2,47;14,8;8,53
 Alliste;Alliste;6533;109;3;2;-1;407;0,31;16,68;6,23
