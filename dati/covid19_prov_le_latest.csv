@@ -1,98 +1,98 @@
 ID;descrizione;abitanti;casi_da_inizio;positivi_settimana_precedente;positivi;variazione;variazione_x1000;vaccini_somministrati;positivi_x1000;casi_da_inizio_x1000;vaccini_somministrati_x100
-Alessano;Alessano;6253;198;3;1;-2;-0,32;3687;0,16;31,66;58,96
-Alezio;Alezio;5676;196;1;0;-1;-0,18;3186;0,00;34,53;56,13
-Alliste;Alliste;6533;142;0;0;0;0,00;3406;0,00;21,74;52,14
-Andrano;Andrano;4666;125;0;0;0;0,00;3116;0,00;26,79;66,78
-Aradeo;Aradeo;9087;289;0;3;3;0,33;5589;0,33;31,80;61,51
-Arnesano;Arnesano;3995;174;2;0;-2;-0,50;2397;0,00;43,55;60,00
-Bagnolo del Salento;Bagnolo del Salento;1808;51;0;5;5;2,77;1164;2,77;28,21;64,38
-Botrugno;Botrugno;2675;74;0;0;0;0,00;1840;0,00;27,66;68,79
-Calimera;Calimera;6849;156;2;2;0;0,00;4624;0,29;22,78;67,51
-Campi Salentina;Campi Salentina;9982;329;1;4;3;0,30;6271;0,40;32,96;62,82
-Cannole;Cannole;1669;77;0;0;0;0,00;1063;0,00;46,14;63,69
-Caprarica di Lecce;Caprarica di Lecce;2386;58;0;0;0;0,00;1582;0,00;24,31;66,30
-Carmiano;Carmiano;11748;525;4;5;1;0,09;6899;0,43;44,69;58,72
-Carpignano Salentino;Carpignano Salentino;3704;97;0;0;0;0,00;2554;0,00;26,19;68,95
-Casarano;Casarano;19732;942;1;7;6;0,30;11295;0,35;47,74;57,24
-Castri di Lecce;Castri di Lecce;2805;90;0;0;0;0,00;1832;0,00;32,09;65,31
-Castrignano de' Greci;Castrignano de' Greci;3779;131;2;0;-2;-0,53;2581;0,00;34,67;68,30
-Castrignano del Capo;Castrignano del Capo;5207;137;0;0;0;0,00;3305;0,00;26,31;63,47
-Cavallino;Cavallino;12586;515;2;3;1;0,08;7694;0,24;40,92;61,13
-Collepasso;Collepasso;5775;271;8;10;2;0,35;3396;1,73;46,93;58,81
-Copertino;Copertino;23494;687;0;0;0;0,00;14612;0,00;29,24;62,19
-Corigliano d'Otranto;Corigliano d'Otranto;5699;141;0;0;0;0,00;3751;0,00;24,74;65,82
-Corsano;Corsano;5278;125;0;0;0;0,00;3011;0,00;23,68;57,05
-Cursi;Cursi;3999;125;0;0;0;0,00;2526;0,00;31,26;63,17
-Cutrofiano;Cutrofiano;8798;223;0;0;0;0,00;5756;0,00;25,35;65,42
-Diso;Diso;2906;81;0;0;0;0,00;2108;0,00;27,87;72,54
-Gagliano del Capo;Gagliano del Capo;5054;122;0;0;0;0,00;2960;0,00;24,14;58,57
-Galatina;Galatina;26201;767;0;0;0;0,00;16596;0,00;29,27;63,34
-Galatone;Galatone;15145;562;7;13;6;0,40;9028;0,86;37,11;59,61
-Gallipoli;Gallipoli;20241;915;2;5;3;0,15;11429;0,25;45,21;56,46
-Giuggianello;Giuggianello;1155;24;0;0;0;0,00;782;0,00;20,78;67,71
-Giurdignano;Giurdignano;1935;26;0;0;0;0,00;1162;0,00;13,44;60,05
-Guagnano;Guagnano;5578;153;1;3;2;0,36;3414;0,54;27,43;61,20
-Lecce;Lecce;93865;3400;23;20;-3;-0,03;58044;0,21;36,22;61,84
-Lequile;Lequile;8576;219;1;2;1;0,12;4988;0,23;25,54;58,16
-Leverano;Leverano;13881;359;4;4;0;0,00;8071;0,29;25,86;58,14
-Lizzanello;Lizzanello;11686;501;18;30;12;1,03;7093;2,57;42,87;60,70
-Maglie;Maglie;13893;375;0;0;0;0,00;8847;0,00;26,99;63,68
-Martano;Martano;8785;224;0;1;1;0,11;5630;0,11;25,50;64,09
-Martignano;Martignano;1604;30;0;0;0;0,00;1093;0,00;18,70;68,14
-Matino;Matino;11224;623;0;0;0;0,00;6008;0,00;55,51;53,53
-Melendugno;Melendugno;9932;389;1;5;4;0,40;5759;0,50;39,17;57,98
-Melissano;Melissano;6881;342;0;0;0;0,00;3619;0,00;49,70;52,59
-Melpignano;Melpignano;2181;28;0;0;0;0,00;1418;0,00;12,84;65,02
-Miggiano;Miggiano;3411;128;0;0;0;0,00;2117;0,00;37,53;62,06
-Minervino di Lecce;Minervino di Lecce;3556;57;8;6;-2;-0,56;2174;1,69;16,03;61,14
-Monteroni di Lecce;Monteroni di Lecce;13673;458;2;1;-1;-0,07;8013;0,07;33,50;58,60
-Montesano Salentino;Montesano Salentino;2622;108;0;0;0;0,00;1652;0,00;41,19;63,01
-Morciano di Leuca;Morciano di Leuca;3153;38;0;0;0;0,00;1966;0,00;12,05;62,35
-Muro Leccese;Muro Leccese;4865;93;0;0;0;0,00;3199;0,00;19,12;65,76
-Nardò;Nardò;31210;1060;1;1;0;0,00;18948;0,03;33,96;60,71
-Neviano;Neviano;5069;88;0;0;0;0,00;3227;0,00;17,36;63,66
-Nociglia;Nociglia;2191;44;0;0;0;0,00;1467;0,00;20,08;66,96
-Novoli;Novoli;7736;197;3;3;0;0,00;4800;0,39;25,47;62,05
-Ortelle;Ortelle;2299;55;1;0;-1;-0,43;1554;0,00;23,92;67,59
-Otranto;Otranto;5827;156;0;0;0;0,00;3322;0,00;26,77;57,01
-Palmariggi;Palmariggi;1430;29;0;0;0;0,00;954;0,00;20,28;66,71
-Parabita;Parabita;8790;336;2;1;-1;-0,11;5295;0,11;38,23;60,24
-Patù;Patù;1642;29;0;0;0;0,00;1009;0,00;17,66;61,45
-Poggiardo;Poggiardo;5912;175;0;0;0;0,00;3930;0,00;29,60;66,47
-Presicce-Acquarica;Presicce-Acquarica;9608;323;0;0;0;0,00;5493;0,00;33,62;57,17
-Racale;Racale;10787;429;0;0;0;0,00;5592;0,00;39,77;51,84
-Ruffano;Ruffano;9503;352;0;1;1;0,11;5032;0,11;37,04;52,95
-Salice Salentino;Salice Salentino;8049;279;18;25;7;0,87;4847;3,11;34,66;60,22
-Salve;Salve;4551;89;0;0;0;0,00;2607;0,00;19,56;57,28
-Sanarica;Sanarica;1461;47;5;4;-1;-0,68;949;2,74;32,17;64,96
-San Cesario di Lecce;San Cesario di Lecce;7987;286;0;1;1;0,13;4819;0,13;35,81;60,34
-San Donato di Lecce;San Donato di Lecce;5551;165;2;3;1;0,18;3562;0,54;29,72;64,17
-Sannicola;Sannicola;5738;197;0;0;0;0,00;3254;0,00;34,33;56,71
-San Pietro in Lama;San Pietro in Lama;3476;133;1;1;0;0,00;2104;0,29;38,26;60,53
-Santa Cesarea Terme;Santa Cesarea Terme;2935;48;0;0;0;0,00;1980;0,00;16,35;67,46
-Scorrano;Scorrano;6809;310;0;0;0;0,00;4129;0,00;45,53;60,64
-Seclì;Seclì;1828;98;0;0;0;0,00;1214;0,00;53,61;66,41
-Sogliano Cavour;Sogliano Cavour;3968;69;4;1;-3;-0,76;2582;0,25;17,39;65,07
-Soleto;Soleto;5325;166;0;0;0;0,00;3240;0,00;31,17;60,85
-Specchia;Specchia;4649;136;0;0;0;0,00;2847;0,00;29,25;61,24
-Spongano;Spongano;3533;77;0;0;0;0,00;2371;0,00;21,79;67,11
-Squinzano;Squinzano;13705;593;0;1;1;0,07;7804;0,07;43,27;56,94
-Sternatia;Sternatia;2221;41;0;0;0;0,00;1483;0,00;18,46;66,77
-Supersano;Supersano;4259;189;0;0;0;0,00;2335;0,00;44,38;54,83
-Surano;Surano;1577;39;0;0;0;0,00;1043;0,00;24,73;66,14
-Surbo;Surbo;14597;556;12;11;-1;-0,07;8794;0,75;38,09;60,25
-Taurisano;Taurisano;11546;939;0;0;0;0,00;5881;0,00;81,33;50,94
-Taviano;Taviano;11718;440;0;0;0;0,00;6595;0,00;37,55;56,28
-Tiggiano;Tiggiano;2809;90;0;0;0;0,00;1692;0,00;32,04;60,23
-Trepuzzi;Trepuzzi;14076;400;5;6;1;0,07;8676;0,43;28,42;61,64
-Tricase;Tricase;17253;494;1;4;3;0,17;10405;0,23;28,63;60,31
-Tuglie;Tuglie;5161;130;0;0;0;0,00;2906;0,00;25,19;56,31
-Ugento;Ugento;12214;416;1;0;-1;-0,08;6683;0,00;34,06;54,72
-Uggiano la Chiesa;Uggiano la Chiesa;4355;56;1;1;0;0,00;2671;0,23;12,86;61,33
-Veglie;Veglie;13671;361;5;0;-5;-0,37;7925;0,00;26,41;57,97
-Vernole;Vernole;6941;245;0;1;1;0,14;4481;0,14;35,30;64,56
-Zollino;Zollino;1897;39;0;0;0;0,00;1292;0,00;20,56;68,11
-San Cassiano;San Cassiano;1985;68;0;0;0;0,00;1367;0,00;34,26;68,87
-Castro;Castro;2339;81;0;0;0;0,00;1598;0,00;34,63;68,32
-Porto Cesareo;Porto Cesareo;6230;383;3;1;-2;-0,32;3229;0,16;61,48;51,83
-Totale;Totale;782604;26833;158;196;38;0,05;472295;0,25;34,29;60,35
+Alessano;Alessano;6253;198;1;1;0;0,00;3813;0,16;31,66;60,98
+Alezio;Alezio;5676;197;0;1;1;0,18;3365;0,18;34,71;59,28
+Alliste;Alliste;6533;142;0;0;0;0,00;3635;0,00;21,74;55,64
+Andrano;Andrano;4666;125;0;0;0;0,00;3202;0,00;26,79;68,62
+Aradeo;Aradeo;9087;293;3;7;4;0,44;5893;0,77;32,24;64,85
+Arnesano;Arnesano;3995;176;0;2;2;0,50;2497;0,50;44,06;62,50
+Bagnolo del Salento;Bagnolo del Salento;1808;52;5;6;1;0,55;1209;3,32;28,76;66,87
+Botrugno;Botrugno;2675;75;0;1;1;0,37;1883;0,37;28,04;70,39
+Calimera;Calimera;6849;157;2;3;1;0,15;4755;0,44;22,92;69,43
+Campi Salentina;Campi Salentina;9982;330;4;5;1;0,10;6563;0,50;33,06;65,75
+Cannole;Cannole;1669;77;0;0;0;0,00;1112;0,00;46,14;66,63
+Caprarica di Lecce;Caprarica di Lecce;2386;58;0;0;0;0,00;1623;0,00;24,31;68,02
+Carmiano;Carmiano;11748;527;5;6;1;0,09;7234;0,51;44,86;61,58
+Carpignano Salentino;Carpignano Salentino;3704;98;0;1;1;0,27;2618;0,27;26,46;70,68
+Casarano;Casarano;19732;955;7;20;13;0,66;11826;1,01;48,40;59,93
+Castri di Lecce;Castri di Lecce;2805;91;0;1;1;0,36;1883;0,36;32,44;67,13
+Castrignano de' Greci;Castrignano de' Greci;3779;132;0;1;1;0,26;2692;0,26;34,93;71,24
+Castrignano del Capo;Castrignano del Capo;5207;137;0;0;0;0,00;3420;0,00;26,31;65,68
+Cavallino;Cavallino;12586;526;3;14;11;0,87;8033;1,11;41,79;63,82
+Collepasso;Collepasso;5775;275;10;11;1;0,17;3587;1,90;47,62;62,11
+Copertino;Copertino;23494;687;0;0;0;0,00;15310;0,00;29,24;65,17
+Corigliano d'Otranto;Corigliano d'Otranto;5699;141;0;0;0;0,00;3956;0,00;24,74;69,42
+Corsano;Corsano;5278;125;0;0;0;0,00;3124;0,00;23,68;59,19
+Cursi;Cursi;3999;126;0;1;1;0,25;2669;0,25;31,51;66,74
+Cutrofiano;Cutrofiano;8798;224;0;1;1;0,11;6043;0,11;25,46;68,69
+Diso;Diso;2906;81;0;0;0;0,00;2159;0,00;27,87;74,29
+Gagliano del Capo;Gagliano del Capo;5054;123;0;1;1;0,20;3049;0,20;24,34;60,33
+Galatina;Galatina;26201;772;0;5;5;0,19;17474;0,19;29,46;66,69
+Galatone;Galatone;15145;568;13;17;4;0,26;9402;1,12;37,50;62,08
+Gallipoli;Gallipoli;20241;923;5;11;6;0,30;12030;0,54;45,60;59,43
+Giuggianello;Giuggianello;1155;24;0;0;0;0,00;803;0,00;20,78;69,52
+Giurdignano;Giurdignano;1935;26;0;0;0;0,00;1219;0,00;13,44;63,00
+Guagnano;Guagnano;5578;153;3;3;0;0,00;3547;0,54;27,43;63,59
+Lecce;Lecce;93865;3436;20;49;29;0,31;60245;0,52;36,61;64,18
+Lequile;Lequile;8576;219;2;2;0;0,00;5193;0,23;25,54;60,55
+Leverano;Leverano;13881;365;4;7;3;0,22;8432;0,50;26,29;60,74
+Lizzanello;Lizzanello;11686;504;30;20;-10;-0,86;7433;1,71;43,13;63,61
+Maglie;Maglie;13893;376;0;0;0;0,00;9293;0,00;27,06;66,89
+Martano;Martano;8785;225;1;2;1;0,11;5765;0,23;25,61;65,62
+Martignano;Martignano;1604;32;0;2;2;1,25;1114;1,25;19,95;69,45
+Matino;Matino;11224;623;0;0;0;0,00;6289;0,00;55,51;56,03
+Melendugno;Melendugno;9932;398;5;13;8;0,81;5953;1,31;40,07;59,94
+Melissano;Melissano;6881;342;0;0;0;0,00;3815;0,00;49,70;55,44
+Melpignano;Melpignano;2181;29;0;1;1;0,46;1483;0,46;13,30;68,00
+Miggiano;Miggiano;3411;128;0;0;0;0,00;2209;0,00;37,53;64,76
+Minervino di Lecce;Minervino di Lecce;3556;65;6;8;2;0,56;2252;2,25;18,28;63,33
+Monteroni di Lecce;Monteroni di Lecce;13673;465;1;8;7;0,51;8374;0,59;34,01;61,24
+Montesano Salentino;Montesano Salentino;2622;108;0;0;0;0,00;1717;0,00;41,19;65,48
+Morciano di Leuca;Morciano di Leuca;3153;40;0;2;2;0,63;2033;0,63;12,69;64,48
+Muro Leccese;Muro Leccese;4865;93;0;0;0;0,00;3372;0,00;19,12;69,31
+Nardò;Nardò;31210;1061;1;2;1;0,03;19664;0,06;34,00;63,01
+Neviano;Neviano;5069;90;0;2;2;0,39;3335;0,39;17,75;65,79
+Nociglia;Nociglia;2191;44;0;0;0;0,00;1510;0,00;20,08;68,92
+Novoli;Novoli;7736;197;3;2;-1;-0,13;5048;0,26;25,47;65,25
+Ortelle;Ortelle;2299;55;0;0;0;0,00;1598;0,00;23,92;69,51
+Otranto;Otranto;5827;158;0;2;2;0,34;3499;0,34;27,12;60,05
+Palmariggi;Palmariggi;1430;29;0;0;0;0,00;991;0,00;20,28;69,30
+Parabita;Parabita;8790;337;1;2;1;0,11;5547;0,23;38,34;63,11
+Patù;Patù;1642;29;0;0;0;0,00;1049;0,00;17,66;63,89
+Poggiardo;Poggiardo;5912;175;0;0;0;0,00;4032;0,00;29,60;68,20
+Presicce-Acquarica;Presicce-Acquarica;9608;323;0;0;0;0,00;5693;0,00;33,62;59,25
+Racale;Racale;10787;431;0;2;2;0,19;5954;0,19;39,96;55,20
+Ruffano;Ruffano;9503;353;1;1;0;0,00;5348;0,11;37,15;56,28
+Salice Salentino;Salice Salentino;8049;282;25;21;-4;-0,50;5071;2,61;35,04;63,00
+Salve;Salve;4551;90;0;1;1;0,22;2710;0,22;19,78;59,55
+Sanarica;Sanarica;1461;47;4;1;-3;-2,05;986;0,68;32,17;67,49
+San Cesario di Lecce;San Cesario di Lecce;7987;287;1;2;1;0,13;4996;0,25;35,93;62,55
+San Donato di Lecce;San Donato di Lecce;5551;165;3;1;-2;-0,36;3691;0,18;29,72;66,49
+Sannicola;Sannicola;5738;200;0;3;3;0,52;3420;0,52;34,86;59,60
+San Pietro in Lama;San Pietro in Lama;3476;134;1;2;1;0,29;2175;0,58;38,55;62,57
+Santa Cesarea Terme;Santa Cesarea Terme;2935;48;0;0;0;0,00;2037;0,00;16,35;69,40
+Scorrano;Scorrano;6809;311;0;1;1;0,15;4314;0,15;45,67;63,36
+Seclì;Seclì;1828;98;0;0;0;0,00;1265;0,00;53,61;69,20
+Sogliano Cavour;Sogliano Cavour;3968;69;1;0;-1;-0,25;2716;0,00;17,39;68,45
+Soleto;Soleto;5325;166;0;0;0;0,00;3408;0,00;31,17;64,00
+Specchia;Specchia;4649;136;0;0;0;0,00;2951;0,00;29,25;63,48
+Spongano;Spongano;3533;77;0;0;0;0,00;2437;0,00;21,79;68,98
+Squinzano;Squinzano;13705;593;1;1;0;0,00;8125;0,07;43,27;59,28
+Sternatia;Sternatia;2221;41;0;0;0;0,00;1526;0,00;18,46;68,71
+Supersano;Supersano;4259;189;0;0;0;0,00;2510;0,00;44,38;58,93
+Surano;Surano;1577;39;0;0;0;0,00;1078;0,00;24,73;68,36
+Surbo;Surbo;14597;556;11;10;-1;-0,07;9219;0,69;38,09;63,16
+Taurisano;Taurisano;11546;942;0;3;3;0,26;6241;0,26;81,59;54,05
+Taviano;Taviano;11718;440;0;0;0;0,00;6984;0,00;37,55;59,60
+Tiggiano;Tiggiano;2809;90;0;0;0;0,00;1769;0,00;32,04;62,98
+Trepuzzi;Trepuzzi;14076;401;6;7;1;0,07;9042;0,50;28,49;64,24
+Tricase;Tricase;17253;501;4;11;7;0,41;10804;0,64;29,04;62,62
+Tuglie;Tuglie;5161;130;0;0;0;0,00;3063;0,00;25,19;59,35
+Ugento;Ugento;12214;416;0;0;0;0,00;7042;0,00;34,06;57,66
+Uggiano la Chiesa;Uggiano la Chiesa;4355;56;1;1;0;0,00;2747;0,23;12,86;63,08
+Veglie;Veglie;13671;362;0;1;1;0,07;8313;0,07;26,48;60,81
+Vernole;Vernole;6941;253;1;9;8;1,15;4622;1,30;36,45;66,59
+Zollino;Zollino;1897;39;0;0;0;0,00;1325;0,00;20,56;69,85
+San Cassiano;San Cassiano;1985;68;0;0;0;0,00;1406;0,00;34,26;70,83
+Castro;Castro;2339;81;0;0;0;0,00;1637;0,00;34,63;69,99
+Porto Cesareo;Porto Cesareo;6230;384;1;2;1;0,16;3399;0,32;61,64;54,56
+Totale;Totale;782604;27015;196;323;127;0,16;492897;0,41;34,52;62,98
